@@ -2,7 +2,7 @@
 
 # Hello! I'm Kim 👋
 
-I’m a dedicated software developer with a strong focus on both front-end and back-end development, committed to crafting seamless and robust digital experiences. My expertise spans a range of technologies, including cloud computing, where I leverage platforms like AWS and Azure to build scalable and efficient solutions.
+I’m a dedicated software developer with a strong focus on both front-end and back-end development. My expertise spans a range of technologies, including cloud computing, where I leverage platforms like AWS and Azure to build scalable and efficient solutions.
 
 My journey into software development followed a fulfilling career in marine conservation and scuba diving. As a technical diver and scuba instructor, I honed my problem-solving skills and attention to detail—qualities that now drive my approach to software engineering. This unique background allows me to approach complex challenges with a distinct perspective and a strong commitment to precision.
 
