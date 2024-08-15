@@ -1,3 +1,5 @@
+![Kim Banner](assets/images/kimbanner.png)
+
 # Hello! I'm Kim 👋
 
 I’m a dedicated software developer with a strong focus on both front-end and back-end development, committed to crafting seamless and robust digital experiences. My expertise spans a range of technologies, including cloud computing, where I leverage platforms like AWS and Azure to build scalable and efficient solutions.
