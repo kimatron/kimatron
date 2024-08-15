@@ -24,6 +24,6 @@ I’m enthusiastic about exploring new technologies and collaborating with other
 
 ## 📊 GitHub Stats
 
-![Kimatron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimatron&show_icons=true&hide_title=true)
+![Kimatron's GitHub Stats ](https://github-readme-stats.vercel.app/api?username=kimatron&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimatron&layout=compact)
