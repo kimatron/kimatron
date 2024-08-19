@@ -1,4 +1,4 @@
-![Kim Banner](assets/images/kimbanner.png)
+![Kim Banner](assets/images/kimbanner1.png)
 
 # Hello! I'm Kim 👋
 
