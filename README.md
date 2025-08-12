@@ -70,6 +70,7 @@ Participated in dozens of hackathons covering front-end, back-end, and full-stac
 
 - Running Devdactyl, my development consultancy 
 - Building an Irish music ecommerce site for my 92-year-old grandad (React + Prisma) - helping him transition from 40 years of physical sales to digital
+- Creating a raffle competition site, licencing pending
 - Exploring microservices architecture
 - Contributing to environmental tech projects
 - Learning advanced AWS services
