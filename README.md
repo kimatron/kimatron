@@ -76,7 +76,7 @@ Participated in dozens of hackathons covering front-end, back-end, and full-stac
 
 ## Background
 
-Before coding, I worked in marine conservation and taught scuba diving. I've logged hundreds of technical dives, managed underwater research projects, and trained divers across multiple continents. That career taught me how to stay calm under pressure, pay attention to critical details, and solve complex problems systematically - skills that happen to be pretty useful in software development too.
+Before coding, I worked in marine conservation and taught scuba diving. I've logged thousands of technical dives, managed underwater research projects, and trained divers across six continents. That career taught me how to stay calm under pressure, pay attention to critical details, and solve complex problems systematically - skills that happen to be pretty useful in software development too.
 
 The transition from ocean depths to code depths has been surprisingly natural. Both environments require precision, planning, and the ability to troubleshoot when things don't go as expected.
 
