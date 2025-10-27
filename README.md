@@ -4,7 +4,7 @@
 
 **Software Developer & Founder of Devdactyl** | Former Marine Conservation Specialist & Dive Instructor
 
-I spent years navigating underwater environments and protecting marine ecosystems before transitioning into software development. Turns out, the problem-solving skills and attention to detail from technical diving translate surprisingly well to debugging code and architecting systems.
+I spent years navigating underwater environments and protecting marine ecosystems before transitioning into software development. Luckily for me, the problem-solving skills and attention to detail from technical diving translate surprisingly well to debugging code and architecting systems.
 
 Currently focused on full-stack development with a particular interest in cloud platforms and scalable solutions. I enjoy building applications that solve real problems, and I'm always curious about how technology can contribute to environmental conservation efforts.
 
